@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ccube_react/static/css/main.16d2f979.chunk.css",
-    "main.js": "/ccube_react/static/js/main.aeaeb033.chunk.js",
-    "main.js.map": "/ccube_react/static/js/main.aeaeb033.chunk.js.map",
+    "main.js": "/ccube_react/static/js/main.bdb7e209.chunk.js",
+    "main.js.map": "/ccube_react/static/js/main.bdb7e209.chunk.js.map",
     "runtime-main.js": "/ccube_react/static/js/runtime-main.b9e3591f.js",
     "runtime-main.js.map": "/ccube_react/static/js/runtime-main.b9e3591f.js.map",
     "static/css/2.7572b43f.chunk.css": "/ccube_react/static/css/2.7572b43f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.7572b43f.chunk.css",
     "static/js/2.b8aeb483.chunk.js",
     "static/css/main.16d2f979.chunk.css",
-    "static/js/main.aeaeb033.chunk.js"
+    "static/js/main.bdb7e209.chunk.js"
   ]
 }
