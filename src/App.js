@@ -10,6 +10,7 @@ import Home from './components/home';
 import Login from './components/login';
 import Test from './components/test';
 import CarUpload from './components/carUpload';
+import AppHome from './components/AppHome';
 import './App.css';
 
 function App() {
@@ -18,6 +19,9 @@ function App() {
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Switch>
+          <Route path="/">
+            <AppHome />
+          </Route>
           <Route path="/login">
             <Login />
           </Route>
