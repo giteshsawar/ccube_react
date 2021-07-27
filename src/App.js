@@ -22,16 +22,16 @@ function App() {
           <Route path="/">
             <AppHome />
           </Route>
-          <Route path="/login">
+          <Route basename="/login" path="/login">
             <Login />
           </Route>
-          <Route path="/home">
+          <Route basename="/home" path="/home">
             <Home />
           </Route>
-          <Route path="/test">
+          <Route basename="/test" path="/test">
             <Test />
           </Route>
-          <Route path="/car">
+          <Route basename="/car" path="/car">
             <CarUpload />
           </Route>
         </Switch>
